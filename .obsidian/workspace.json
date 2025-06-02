@@ -25,10 +25,14 @@
             "id": "66085bd54a3b7d1d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Personal/1.Projects/my-blog/📦 Projects/Статий_качени/Аквариумистиката Как да започнем и защо това е повече от хоби.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Аквариумистиката Как да започнем и защо това е повече от хоби"
             }
           }
         ],
@@ -181,29 +185,12 @@
   },
   "active": "66085bd54a3b7d1d",
   "lastOpenFiles": [
-    "PushupsVault/Templates/pushups-template.md",
-    "PushupsVault/📈 Статистика лицеви.md",
-    "PushupsVault/Templates",
-    "PushupsVault",
-    "PushupsVault.zip",
-    "Personal/template/template.md",
-    "Personal/template",
-    "Personal/Untitled.md",
-    "Personal/PushupsVault/Templates/pushups-template.md.md",
-    "Personal/PushupsVault/📈 Статистика лицеви.md",
-    "Personal/PushupsVault/Templates",
-    "Personal/PushupsVault",
-    "Personal/1.Projects/my-blog/📦 Projects/Blog plan/Articles_content_plan/План за водене на блог.md",
-    "Personal/1.Projects/my-blog/📦 Projects/Статий_качени/Какво ви дава Аквариумистиката!!!.md",
-    "Personal/1.Projects/my-blog/📦 Projects/Статий_качени/Аквариумистиката Как да започнем и защо това е повече от хоби.md",
-    "Personal/1.Projects/my-blog/📦 Projects/in-progress/in-progress.md",
-    "Personal/1.Projects/my-blog/📦 Projects/In-Coming/In-Coming.md",
-    "Personal/1.Projects/my-blog/📦 Projects/Blog plan/Articles_content_plan",
-    "Personal/1.Projects/my-blog/📦 Projects/Статий_качени",
-    "Personal/1.Projects/my-blog/📦 Projects/in-progress",
-    "Personal/1.Projects/my-blog/📦 Projects/In-Coming",
+    "Personal/PushupsVault/Untitled.md",
+    "Personal/1.Projects/my-blog/Articles arrya.md",
+    "Personal/1.Projects/my-blog/Untitled.md",
     "Personal/1.Projects/my-blog/my-blog.md",
-    "Personal/1.Projects/Daily/push-ups.md",
+    "Personal/1.Projects/my-blog",
+    "Personal/Tags",
     "mitaka_blog/tst/daily/2025-05-26.md",
     "mitaka_blog/Изпраща не на `msmtp` (лек SMTP клиент).md",
     "mitaka_blog/как да направим качване до прод и архивиране.md",
