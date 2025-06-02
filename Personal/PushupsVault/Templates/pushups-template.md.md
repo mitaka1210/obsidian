@@ -4,8 +4,8 @@ tags:
 date: <% tp.date.now("YYYY-MM-DD") %>
 day: <% tp.date.now("dddd") %>
 type: pushups
-total: ${total}
-series:
+totalPushUps: ${totalPushUps}
+seriesAll: ${totalSeries}
 ---
 <%*
 const date = tp.date.now("YYYY-MM-DD");
@@ -17,29 +17,30 @@ const s2 = await tp.system.prompt("Брой лицеви във 2-ра сери�
 const s3 = await tp.system.prompt("Брой лицеви в 3-та серия:");
 
 // Пресметни общия брой
-const total = Number(s1) + Number(s2) + Number(s3);
+const totalPushUps = Number(s1) + Number(s2) + Number(s3);
+
+// Попитай за броя серий
+const seriesAll = await tp.system.prompt("Брой  серий");
+// Пресметни общия брой
+const totalSeries = Number(seriesAll);
 
 tR += `---
 tags: [лицеви]
 date: ${date}
 day: ${day}
 type: pushups
-total: ${total}
+total: ${totalPushUps}
 series:
-  - ${s1}
-  - ${s2}
-  - ${s3}
+  - ${seriesAll}
 ---
-// Пресметни общия брой  
-const totalSeries = Number(s1) + Number(s2) + Number(s3);
-
 💪 **Лицеви упори — ${date} (${day})**
 
 🧮 **Серии:**
 - 1-ва: ${s1}
-- 2-ра: ${s2}
-- 3-та: ${s3}
+- 2-ва: ${s2}
+- 3-ва: ${s3}
 
-✅ **Общо:** ${total}
+✅ **Общо лицеви:** ${totalPushUps}
+** Общо серий: ** ${totalSeries}
 `;
 %>
