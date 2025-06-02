@@ -4,6 +4,9 @@
   "omnisearch",
   "obsidian-importer",
   "obsidian-icon-folder",
+  "file-explorer-plus",
+  "file-explorer-note-count",
+  "obsidian-file-color",
   "cm-editor-syntax-highlight-obsidian",
   "colored-tags",
   "code-styler",
@@ -13,6 +16,5 @@
   "obsidian-git",
   "make-md",
   "obsidian-icon-shortcodes",
-  "dataview",
   "templater-obsidian"
 ]
