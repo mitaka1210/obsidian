@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "601d154b88523e1b",
+        "id": "47575d6729c9baff",
         "type": "tabs",
         "children": [
           {
-            "id": "9de22ae41463f27a",
+            "id": "84630e07ea8ce66d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PushupsVault/📈 Статистика лицеви.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "📈 Статистика лицеви"
             }
           }
         ]
@@ -72,7 +76,7 @@
             }
           },
           {
-            "id": "d8bd87e990889a71",
+            "id": "fb02e133266b76c8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -120,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PushupsVault/📈 Статистика лицеви.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 📈 Статистика лицеви"
             }
           },
           {
@@ -235,48 +240,46 @@
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9de22ae41463f27a",
+  "active": "84630e07ea8ce66d",
   "lastOpenFiles": [
+    "template/template.md",
+    "template",
     "Untitled.md",
-    "1.Projects/Daily/Find.md",
-    "PushupsVault/📈 Статистика лицеви.md",
     "PushupsVault/Templates/pushups-template.md.md",
+    "PushupsVault/📈 Статистика лицеви.md",
+    "PushupsVault/Templates",
+    "PushupsVault",
+    "1.Projects/my-blog/📦 Projects/Blog plan/Articles_content_plan/План за водене на блог.md",
+    "1.Projects/my-blog/📦 Projects/Статий_качени/Какво ви дава Аквариумистиката!!!.md",
+    "1.Projects/my-blog/📦 Projects/Статий_качени/Аквариумистиката Как да започнем и защо това е повече от хоби.md",
+    "1.Projects/my-blog/📦 Projects/in-progress/in-progress.md",
+    "1.Projects/my-blog/📦 Projects/In-Coming/In-Coming.md",
+    "1.Projects/my-blog/📦 Projects/Blog plan/Articles_content_plan",
+    "1.Projects/my-blog/📦 Projects/Статий_качени",
+    "1.Projects/my-blog/📦 Projects/in-progress",
+    "1.Projects/my-blog/📦 Projects/In-Coming",
+    "1.Projects/my-blog/📦 Projects/Blog plan",
+    "1.Projects/my-blog/📦 Projects",
+    "1.Projects/my-blog/my-blog.md",
+    "1.Projects/my-blog",
+    "1.Projects/Daily/push-ups.md",
+    "1.Projects/Daily/Find.md",
     "Untitled 1.md",
     "02-06-2025.md",
     "Untitled 2.md",
     "Untitled 3.md",
     "PushupsVault/Untitled.md",
-    "PushupsVault/Templates",
-    "PushupsVault",
-    "template/template.md",
-    "template",
-    "1.Projects/Daily/push-ups.md",
     "2025-W23.md",
-    "1.Projects/my-blog/📦 Projects/in-progress/in-progress.md",
-    "1.Projects/my-blog/📦 Projects/in-progress",
-    "1.Projects/my-blog/📦 Projects/In-Coming/In-Coming.md",
-    "1.Projects/my-blog/📦 Projects/In-Coming",
-    "1.Projects/my-blog/my-blog.md",
     "1.Projects/my-blog/Articles arrya.md",
-    "1.Projects/my-blog/📦 Projects/Blog plan/Articles_content_plan/План за водене на блог.md",
-    "1.Projects/my-blog",
     "2.Areas/Hobbies/Places for recreation and fishing/Mеста за почивка и риболов.md",
-    "Tags",
     "2.Areas/Hobbies/places for recreation and fishing/places for recreation and fishing.md",
     "2.Areas/Scripts/Novatio/delete and install library.md",
-    "2.Areas/Hobbies/Places for recreation and fishing",
-    "2.Areas/Scripts/Novatio",
     "2.Areas/Scripts/Novatio/bash script for delete node_module and node cache.md",
     "[[bash script for delete node_module and node cache]].md",
-    "2.Areas/Scripts",
     "1.Projects/Изисквания за това какво ще записвам в тази папка (Projects).md",
-    "2.Areas/Изисквания за това какво ще записвам в тази папка (Areas).md",
-    "3.Resources/Изисквания за това какво ще записвам в тази папка (Resources).md",
-    "4.Archives/Изисквания за това какво ще записвам в тази папка (Archives).md",
     "Business/Journal/Technical/Migrated/assets/why-not-jwt.png",
     "Business/Journal/Technical/Migrated/assets/original.jpg",
     "Business/Journal/Technical/Migrated/assets/oYukX.jpg",

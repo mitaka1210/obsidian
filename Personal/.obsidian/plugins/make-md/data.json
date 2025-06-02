@@ -38,10 +38,10 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "1.Projects/Daily",
     "/",
-    "//1.Projects",
-    "//1.Projects/1.Projects/Daily"
+    "//PushupsVault",
+    "//PushupsVault/PushupsVault/Templates",
+    "//template"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -53,6 +53,8 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,

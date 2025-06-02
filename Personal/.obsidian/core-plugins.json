@@ -1,5 +1,5 @@
 {
-  "file-explorer": true,
+  "file-explorer": false,
   "global-search": true,
   "switcher": true,
   "graph": true,
@@ -24,7 +24,7 @@
   "slides": false,
   "audio-recorder": true,
   "workspaces": false,
-  "file-recovery": true,
+  "file-recovery": false,
   "publish": false,
   "sync": true,
   "webviewer": false
