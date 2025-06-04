@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PushupsVault/Templates/pushups-template.md.md",
+                "file": "04-06-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pushups-template.md"
+              "title": "04-06-2025"
             }
           }
         ]
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "fb02e133266b76c8",
+            "id": "4abcabf90b1a5d3f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PushupsVault/Templates/pushups-template.md.md",
+                "file": "04-06-2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pushups-template.md"
+              "title": "Backlinks for 04-06-2025"
             }
           },
           {
@@ -205,7 +205,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "2a5073634fabf08a",
@@ -246,10 +247,15 @@
   },
   "active": "84630e07ea8ce66d",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "PushupsVault/📈 Статистика лицеви.md",
     "PushupsVault/Templates/pushups-template.md.md",
+    "04-06-2025.md",
+    "3.md",
     "Untitled.md",
+    "PushupsVault/Templates/Untitled.md",
+    "PushupsVault/📈 Статистика лицеви.md",
+    "PushupsVault/Templates/mitaka.md",
+    "PushupsVault/Untitled.md",
+    "Untitled 1.md",
     "template/template.md",
     "template",
     "PushupsVault/Templates",
@@ -272,15 +278,11 @@
     "02-06-2025.md",
     "Untitled 2.md",
     "Untitled 3.md",
-    "PushupsVault/Untitled.md",
     "2025-W23.md",
     "1.Projects/my-blog/Articles arrya.md",
     "2.Areas/Hobbies/Places for recreation and fishing/Mеста за почивка и риболов.md",
     "2.Areas/Hobbies/places for recreation and fishing/places for recreation and fishing.md",
     "2.Areas/Scripts/Novatio/delete and install library.md",
-    "2.Areas/Scripts/Novatio/bash script for delete node_module and node cache.md",
-    "[[bash script for delete node_module and node cache]].md",
-    "1.Projects/Изисквания за това какво ще записвам в тази папка (Projects).md",
     "Business/Journal/Technical/Migrated/assets/why-not-jwt.png",
     "Business/Journal/Technical/Migrated/assets/original.jpg",
     "Business/Journal/Technical/Migrated/assets/oYukX.jpg",
