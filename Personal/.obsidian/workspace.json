@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "4abcabf90b1a5d3f",
+            "id": "d034c30beb0c57e6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PushupsVault/Untitled.md",
+                "file": "04-06-2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from 04-06-2025"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PushupsVault/Untitled.md",
+                "file": "04-06-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 04-06-2025"
             }
           },
           {
@@ -194,19 +194,9 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "a4917c9f273a8a39",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "2a5073634fabf08a",
@@ -241,11 +231,10 @@
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "84630e07ea8ce66d",
+  "active": "df102072c4a377ae",
   "lastOpenFiles": [
     "PushupsVault/Templates/pushups-template.md.md",
     "04-06-2025.md",
